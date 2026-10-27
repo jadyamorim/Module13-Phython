@@ -7,4 +7,4 @@ countdown app
 
 automation-inventory-project Automation with Python 
 
-classes-and-objects
+classes-and-objects (users and posts app)
